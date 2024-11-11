@@ -1,0 +1,7 @@
+D:\Программы\Project\УП Рмп\Romanov_Andrey_PR_31_zd_3\Romanov_Andrey_PR_31_zd_3\obj\Debug\Romanov_Andrey_PR_31_zd_3.csproj.AssemblyReference.cache
+D:\Программы\Project\УП Рмп\Romanov_Andrey_PR_31_zd_3\Romanov_Andrey_PR_31_zd_3\obj\Debug\Romanov_Andrey_PR_31_zd_3.csproj.CoreCompileInputs.cache
+D:\Программы\Project\УП Рмп\Romanov_Andrey_PR_31_zd_3\Romanov_Andrey_PR_31_zd_3\bin\Debug\Romanov_Andrey_PR_31_zd_3.exe.config
+D:\Программы\Project\УП Рмп\Romanov_Andrey_PR_31_zd_3\Romanov_Andrey_PR_31_zd_3\bin\Debug\Romanov_Andrey_PR_31_zd_3.exe
+D:\Программы\Project\УП Рмп\Romanov_Andrey_PR_31_zd_3\Romanov_Andrey_PR_31_zd_3\bin\Debug\Romanov_Andrey_PR_31_zd_3.pdb
+D:\Программы\Project\УП Рмп\Romanov_Andrey_PR_31_zd_3\Romanov_Andrey_PR_31_zd_3\obj\Debug\Romanov_Andrey_PR_31_zd_3.exe
+D:\Программы\Project\УП Рмп\Romanov_Andrey_PR_31_zd_3\Romanov_Andrey_PR_31_zd_3\obj\Debug\Romanov_Andrey_PR_31_zd_3.pdb
